@@ -2,6 +2,9 @@ local prices = {
     -----------------
     --- Naxxramas ---
     -----------------
+  [55581] = {84,"T3"}; --T3 Desecrated Ring
+  [55582] = {84,"T3"}; --T3 Desecrated Loop
+  [55583] = {84,"T3"}; --T3 Desecrated Signet 
   [22349] = {148,"T3"}; --T3 Chest Token
   [22350] = {148,"T3"}; --T3 Chest Token
   [22351] = {148,"T3"}; --T3 Chest Token
@@ -213,7 +216,17 @@ local prices = {
   [23665] = {48,"T3"}; --Leggings of Elemental Fury
   [23666] = {48,"T3"}; --Belt of the Grand Crusader
   [23667] = {48,"T3"}; --Spaulders of the Grand Crusader
-  [23668] = {48,"T3"}; --Leggings of the Grand Crusader 
+  [23668] = {48,"T3"}; --Leggings of the Grand Crusader   
+  [23059] = {84,"T3"}; --Ring of the Dreadnaught
+  [23060] = {84,"T3"}; --Bonescythe Ring
+  [23061] = {84,"T3"}; --Ring of Faith
+  [23062] = {84,"T3"}; --Frostfire Ring 
+  [23063] = {84,"T3"}; --Plagueheart Ring
+  [23064] = {84,"T3"}; --Ring of the Dreamwalker
+  [23065] = {84,"T3"}; --Ring of the Earthshatterer
+  [23066] = {84,"T3"}; --Ring of Redemption  
+  [23067] = {84,"T3"}; --Ring of the Cryptstalker
+
 
     ---------------------------
     --- Temple of Ahn'Qiraj ---
@@ -394,6 +407,37 @@ local prices = {
   [23557] = {128,"T2.5"}; --Larvae of the Great Worm
   [23558] = {24,"T2.5"}; --The Burrower's Shell
   [23570] = {80,"T2.5"}; --Jom Gabbar
+  
+    ---------------------------
+    --- Emerald Sanctum ---
+    ---------------------------
+  [41076] = {0,"T2.5"}; --Aspect of Seradane
+  [61203] = {0,"T2.5"}; --Libram of the Dreamguard
+  [61204] = {0,"T2.5"}; --Totem of the Stonebreaker
+  [61205] = {0,"T2.5"}; --CRing of Nature's Duality
+  [61206] = {0,"T2.5"}; --Robe of the Dreamways
+  [61207] = {0,"T2.5"}; --Jadestone Helmet
+  [61208] = {0,"T2.5"}; --Staff of the Dreamer
+  [61209] = {0,"T2.5"}; --Shard of Nightmare
+  [61210] = {0,"T2.5"}; --Veil of Nightmare
+  [61211] = {0,"T2.5"}; --Sandals of Lucidity
+  [61212] = {0,"T2.5"}; --Sanctum Bark Wraps
+  [61213] = {0,"T2.5"}; --Talonwind Gautlets
+  [61214] = {0,"T2.5"}; --Mantel of the Wakener
+  [61215] = {0,"T2.5"}; --Head of Solnius
+  [61237] = {0,"T2.5"}; --Mallet of the Awakening  
+  [61238] = {0,"T2.5"}; --Scaleshield of Emerald Flight  
+  [61239] = {0,"T2.5"}; --Ancient Jade Leggings
+  [61444] = {0,"T2.5"}; --Smoldering Dream Essence
+  [61448] = {0,"T2.5"}; --Axe of Dormant Slumber
+  [61522] = {0,"T2.5"}; --Choker of the Emerald Lord
+  [61523] = {0,"T2.5"}; --Crystal Sword of the Blossom
+  [61524] = {0,"T2.5"}; --Naturecaller's Tunic
+  [61525] = {0,"T2.5"}; --Nature's Call
+  [61526] = {0,"T2.5"}; --Jadestone Protector
+  [61527] = {0,"T2.5"}; --Breath of Solnius
+  [61455] = {0,"T2.5"}; --Idol of the Emerald Rot
+  [61652] = {0,"T2.5"}; --Claw of Erennius
 
     ----------------------
     --- Blackwing Lair ---
