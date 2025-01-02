@@ -1,5 +1,6 @@
 # shootyepgp
 Guild Helper addon for EPGP loot system in WoW (1.12)
+This has the adjusted pricing for Secret Hideout.
 
 ## setup
 shootyepgp requires some modifications to guild permissions for officer notes by the guild leader.  
