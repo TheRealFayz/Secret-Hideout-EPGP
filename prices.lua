@@ -217,15 +217,6 @@ local prices = {
   [23666] = {48,"T3"}; --Belt of the Grand Crusader
   [23667] = {48,"T3"}; --Spaulders of the Grand Crusader
   [23668] = {48,"T3"}; --Leggings of the Grand Crusader   
-  [23059] = {84,"T3"}; --Ring of the Dreadnaught
-  [23060] = {84,"T3"}; --Bonescythe Ring
-  [23061] = {84,"T3"}; --Ring of Faith
-  [23062] = {84,"T3"}; --Frostfire Ring 
-  [23063] = {84,"T3"}; --Plagueheart Ring
-  [23064] = {84,"T3"}; --Ring of the Dreamwalker
-  [23065] = {84,"T3"}; --Ring of the Earthshatterer
-  [23066] = {84,"T3"}; --Ring of Redemption  
-  [23067] = {84,"T3"}; --Ring of the Cryptstalker
 
 
     ---------------------------
@@ -706,7 +697,7 @@ local prices = {
   [18563] = {0,"T1"}; --Bindings of the Windseeker
   [18564] = {0,"T1"}; --Bindings of the Windseeker
   [18646] = {0,"T1"}; --The Eye of Divinity
-  [18703] = {0,"T1"}; --Ancient Petrified Leaf
+  [18703] = {10,"T1"}; --Ancient Petrified Leaf
   [18803] = {12,"T1"}; --Finkle's Lava Dredger
   [18805] = {32,"T1"}; --Core Hound Tooth
   [18806] = {4,"T1"}; --Core Forged Greaves
