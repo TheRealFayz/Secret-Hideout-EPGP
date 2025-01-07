@@ -108,7 +108,7 @@ __**:shield:Weapons:shield:**__
 **[Dragonbreath Hand Cannon](https://database.turtle-wow.org/?item=19368)** - 52  
 **[Essence Gatherer](https://database.turtle-wow.org/?item=19435)** - 8  
 
-__**Other**__
+__**:shield:Other:shield:**__
 **[Head of Nefarian](https://database.turtle-wow.org/?item=19003)** - 40  
 **[Head of Nefarian (Master Dragonslayer's Orb)](https://database.turtle-wow.org/?item=19366)** - 40  
 **[Head of Nefarian (
