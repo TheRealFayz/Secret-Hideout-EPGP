@@ -152,5 +152,5 @@ __**:shield:Weapons:shield:**__
 **[Ivonor, Maiden's Mallet](https://database.turtle-wow.org/?item=55555)** - 200  
 **[Remnants of an Old God](https://database.turtle-wow.org/?item=60003)** - 280  
 
-__**Other**__
+__**:shield:Other:shield:**__
 **[Mark of C'Thun](https://database.turtle-wow.org/?item=22732)** - 130  
