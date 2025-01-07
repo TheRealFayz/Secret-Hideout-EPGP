@@ -42,7 +42,7 @@ __**:shield:Weapons:shield:**__
 **[Jadestone Protector](https://database.turtle-wow.org/?item=61526)** - 100  
 **[Idol of the Emerald Rot](https://database.turtle-wow.org/?item=61455)** - 28
 
-__**Other**__
+__**:shield:Other:shield:**__
 **[Head of Solnius (Ring of Nordrassil)](https://database.turtle-wow.org/?item=61195)** - 200  
 **[Head of Solnius (The Heart of Dreams)](https://database.turtle-wow.org/?item=61194)** - 200  
 **[Head of Solnius (Verdant Eye Necklace)](https://database.turtle-wow.org/?item=61193)** - 200  
