@@ -89,5 +89,5 @@ __**:shield:Weapons:shield:**__
 **[Band of Sulfuras](https://database.turtle-wow.org/?item=19138)** - 24 
 **[Fire Runed Grimoire](https://database.turtle-wow.org/?item=19142)** - 12  
 
-__**Other**__
+__**:shield:Other:shield:**__
 **[Ancient Petrified Leaf](https://database.turtle-wow.org/?item=18703)** - 4 
