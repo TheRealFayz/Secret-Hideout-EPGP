@@ -21,7 +21,7 @@ __**:shield:Shoulders:shield:**__
 
 __**:shield:Chest:shield:**__
 **[Black Ash Robe](https://database.turtle-wow.org/?item=19399)** - 12  
-**[Malfurion's Blessed Bulwark](https://database.turtle-wow.org/?item=19405)** - 60  
+**[Malfurion's Blessed Bulwark](https://database.turtle-wow.org/?item=19405)** - 40  
 **[Interlaced Shadow Jerkin](https://database.turtle-wow.org/?item=19439)** - 4  
 
 __**:shield:Wrists:shield:**__
@@ -75,11 +75,11 @@ __**:shield:Jewlery:shield:**__
 **[Styleen's Impeding Scarab](https://database.turtle-wow.org/?item=19431)** - 120  
 **[Circle of Applied Force](https://database.turtle-wow.org/?item=19432)** - 32  
 **[Band of Dark Dominion](https://database.turtle-wow.org/?item=19434)** - 40  
+**[Mind Quickening Gem](https://database.turtle-wow.org/?item=19339)** - 60  
 
 __**:shield:Weapons:shield:**__
 **[The Untamed Blade](https://database.turtle-wow.org/?item=19334)** - 50 
 **[Spineshatter](https://database.turtle-wow.org/?item=19335)** - 20  
-**[Mind Quickening Gem](https://database.turtle-wow.org/?item=19339)** - 40  
 **[Rune of Metamorphosis](https://database.turtle-wow.org/?item=19340)** - 16  
 **[Lifegiving Gem](https://database.turtle-wow.org/?item=19341)** - 68  
 **[Venomous Totem](https://database.turtle-wow.org/?item=19342)** - 16  
@@ -96,21 +96,21 @@ __**:shield:Weapons:shield:**__
 **[Draconic Avenger](https://database.turtle-wow.org/?item=19354)** - 16  
 **[Shadow Wing Focus Staff](https://database.turtle-wow.org/?item=19355)** - 48  
 **[Staff of the Shadow Flame](https://database.turtle-wow.org/?item=19356)** - 100  
-**[Herald of Woe](https://database.turtle-wow.org/?item=19357)** - 32  
+**[Herald of Woe](https://database.turtle-wow.org/?item=19357)** - 130  
 **[Draconic Maul](https://database.turtle-wow.org/?item=19358)** - 12  
-**[Lok'amir il Romathis](https://database.turtle-wow.org/?item=19360)** - 60  
+**[Lok'amir il Romathis](https://database.turtle-wow.org/?item=19360)** - 150  
 **[Ashjre'thul, Crossbow of Smiting](https://database.turtle-wow.org/?item=19361)** - 150  
 **[Doom's Edge](https://database.turtle-wow.org/?item=19362)** - 32  
 **[Crul'shoruk, Edge of Chaos](https://database.turtle-wow.org/?item=19363)** - 130  
-**[Ashkandi, Greatsword of the Brotherhood](https://database.turtle-wow.org/?item=19364)** - 100  
+**[Ashkandi, Greatsword of the Brotherhood](https://database.turtle-wow.org/?item=19364)** - 130  
 **[Claw of the Black Drake](https://database.turtle-wow.org/?item=19365)** - 52 
 **[Dragon's Touch](https://database.turtle-wow.org/?item=19367)** - 32  
 **[Dragonbreath Hand Cannon](https://database.turtle-wow.org/?item=19368)** - 52  
 **[Essence Gatherer](https://database.turtle-wow.org/?item=19435)** - 8  
 
 __**Other**__
-**[Head of Nefarian](https://database.turtle-wow.org/?item=19003)** - 52  
-**[Head of Nefarian (Master Dragonslayer's Orb)](https://database.turtle-wow.org/?item=19366)** - 52  
+**[Head of Nefarian](https://database.turtle-wow.org/?item=19003)** - 40  
+**[Head of Nefarian (Master Dragonslayer's Orb)](https://database.turtle-wow.org/?item=19366)** - 40  
 **[Head of Nefarian (
-Master Dragonslayer's Medallion)](https://database.turtle-wow.org/?item=19383)** - 52  
-**[Head of Nefarian (Master Dragonslayer's Ring)](https://database.turtle-wow.org/?item=19384)** - 52  
+Master Dragonslayer's Medallion)](https://database.turtle-wow.org/?item=19383)** - 40  
+**[Head of Nefarian (Master Dragonslayer's Ring)](https://database.turtle-wow.org/?item=19384)** - 40  
