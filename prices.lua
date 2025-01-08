@@ -852,7 +852,7 @@ function sepgp_prices:GetPrice(item,progress)
     data = prices[itemID]
     if (data) then
       price, tier = data[1], data[2]
-      price = get_adjusted_price(price,tier,progress)
+  --    price = get_adjusted_price(price,tier,progress)
     else
       return
     end
