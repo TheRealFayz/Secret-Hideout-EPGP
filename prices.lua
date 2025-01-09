@@ -811,10 +811,10 @@ local prices = {
 sepgp.gp_prices = prices
 --[[local price_scaling = {
   ["T1"] = 1,
-  ["T1.5"] = 1,
-  ["T2"] = 1,
-  ["T2.5"] = 1,
-  ["T3"] = 1
+  ["T1.5"] = 1.5,
+  ["T2"] = 3,
+  ["T2.5"] = 6,
+  ["T3"] = 9
 }]]
 local progress_scaling = {
   ["T3"] =   {["T3"]=1,  ["T2.5"]=1,  ["T2"]=1,  ["T1.5"]=1,["T1"]=1},
