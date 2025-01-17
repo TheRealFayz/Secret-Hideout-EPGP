@@ -2,7 +2,7 @@ local prices = {
     -----------------
     --- Naxxramas ---
     -----------------
-  [55581] = {50,"T3"}; --T3 Desecrated Ring
+  [55581] = {160,"T3"}; --T3 Desecrated Ring
   [55582] = {160,"T3"}; --T3 Desecrated Loop
   [55583] = {160,"T3"}; --T3 Desecrated Signet 
   [22349] = {148,"T3"}; --T3 Chest Token
