@@ -438,6 +438,8 @@ local prices = {
   [61527] = {200,"T2.5"}; --Breath of Solnius
   [61455] = {28,"T2.5"}; --Idol of the Emerald Rot
   [61652] = {150,"T2.5"}; --Claw of Erennius
+  [84501] = {150,"T2.5"}; --Corrupted Reed
+  [84505] = {88,"T2.5"}; --Infused Wildthorn Bracers
 
     ----------------------
     --- Blackwing Lair ---
