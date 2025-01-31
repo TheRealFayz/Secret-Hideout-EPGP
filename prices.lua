@@ -438,8 +438,14 @@ local prices = {
   [61527] = {200,"T2.5"}; --Breath of Solnius
   [61455] = {28,"T2.5"}; --Idol of the Emerald Rot
   [61652] = {150,"T2.5"}; --Claw of Erennius
+  [84500] = {280,"T2.5"}; --Lucid Nightmare
   [84501] = {150,"T2.5"}; --Corrupted Reed
+  [84502] = {40,"T2.5"}; --Verdant Dreamer's Boots
+  [84503] = {300,"T2.5"}; --Nature's Gift
+  [84504] = {80,"T2.5"}; --Lasher's Whip
   [84505] = {88,"T2.5"}; --Infused Wildthorn Bracers
+  [84506] = {30,"T2.5"}; --Sleeper's Ring
+  [84509] = {80,"T2.5"}; --Emerald Rod
 
     ----------------------
     --- Blackwing Lair ---
