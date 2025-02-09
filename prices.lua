@@ -148,6 +148,7 @@ local prices = {
   [23001] = {375,"T3"}; --Eye of Diminution
   [23004] = {38,"T3"}; --Idol of Longevity
   [23005] = {38,"T3"}; --Totem of Flowing Water
+  [23006] = {38,"T3"}; --Libram of Light
   [23009] = {100,"T3"}; --Wand of the Whispering Dead
   [23014] = {150,"T3"}; --"Iblis, Blade of the Fallen Seraph"
   [23017] = {100,"T3"}; --Veil of Eclipse
