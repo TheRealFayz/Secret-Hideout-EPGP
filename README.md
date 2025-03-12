@@ -70,7 +70,3 @@ Decay is currently set at 10%, but may be adjusted as the Officers feel necessar
 
 ### EPGP Addon:
 The EPGP addon is not mandatory for raid members, except for the Loot Master. However, if you choose to use it, the addon will automatically display the assigned item values in Atlas for your convenience.
-
-## download
-- Release version: Download shootyepgp-x.y-11200.zip file from [latest](https://github.com/Road-block/shootyepgp/releases/latest) and extract to AddOns folder.
-- *Alpha version: Download shootyepgp-master.zip from [here](https://github.com/Road-block/shootyepgp/archive/master.zip) extract to AddOns folder and **remove** the -master suffix from the folder so it's just `shootyepgp`.*
