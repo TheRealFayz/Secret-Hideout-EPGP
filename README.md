@@ -37,7 +37,7 @@ Having the addon makes everything more convenient, but is not mandatory.
 ## EPGP basics and help
 [shootyepgp wiki](https://github.com/Road-block/shootyepgp/wiki)
 
-## Key Points about EPGP
+## Key Points about Secret Hideout EPGP
 
 ### Pricing and Item Value:
 Item prices vary based on their importance. Best-in-slot (BiS) items are priced higher due to their long-term value, while minor upgrades are priced lower. Factors affecting pricing may evolve as we gain experience with the system.
